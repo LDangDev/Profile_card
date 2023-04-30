@@ -8,3 +8,5 @@ git clone https://github.com/LDangDev/Profile_card.git
 ### Built With
 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)<br />
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)<br />
+### Preview
+![Profile card preview](https://github.com/LDangDev/Profile_card/blob/main/ezgif.com-video-to-gif%20(2).gif)
